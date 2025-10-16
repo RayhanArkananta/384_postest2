@@ -30,7 +30,6 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content" />
 
-            <!-- Gambar search di kanan -->
             <ImageView
                 android:src="@android:drawable/ic_menu_search"
                 app:tint="#FFFFFF"
